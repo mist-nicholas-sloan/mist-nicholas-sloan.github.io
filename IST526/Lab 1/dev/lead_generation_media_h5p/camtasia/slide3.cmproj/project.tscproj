@@ -1,0 +1,344 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : false,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "allowSubFrameEditing" : false,
+  "width" : 1280.0,
+  "height" : 670.0,
+  "version" : "7.0",
+  "editRate" : 705600000,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "2023.4.8"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\Sloan\\OneDrive\\Desktop\\MIST Program\\Github\\mist-nicholas-sloan.github.io\\IST526\\Lab 1\\dev\\lead_generation_media_h5p\\camtasia\\slide3.cmproj\\media\\1610256917.686849\\slide3_audio.wav",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1611540],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 1,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "slide3_audio.wav;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.508337"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "C:\\Users\\Sloan\\OneDrive\\Desktop\\MIST Program\\Github\\mist-nicholas-sloan.github.io\\IST526\\Lab 1\\dev\\lead_generation_media_h5p\\camtasia\\slide3.cmproj\\media\\1610256917.687071\\sussana1.png",
+      "rect" : [0, 0, 265, 689],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 265, 689],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana1.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.523991"
+      }
+    },
+    {
+      "id" : 3,
+      "src" : "C:\\Users\\Sloan\\OneDrive\\Desktop\\MIST Program\\Github\\mist-nicholas-sloan.github.io\\IST526\\Lab 1\\dev\\lead_generation_media_h5p\\camtasia\\slide3.cmproj\\media\\1610256917.687251\\sussana2.png",
+      "rect" : [0, 0, 348, 991],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 348, 991],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana2.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.539615"
+      }
+    },
+    {
+      "id" : 4,
+      "src" : "C:\\Users\\Sloan\\OneDrive\\Desktop\\MIST Program\\Github\\mist-nicholas-sloan.github.io\\IST526\\Lab 1\\dev\\lead_generation_media_h5p\\camtasia\\slide3.cmproj\\media\\1610256917.687425\\sussana3.png",
+      "rect" : [0, 0, 364, 890],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 364, 890],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana3.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.555232"
+      }
+    },
+    {
+      "id" : 5,
+      "src" : "C:\\Users\\Sloan\\OneDrive\\Desktop\\MIST Program\\Github\\mist-nicholas-sloan.github.io\\IST526\\Lab 1\\dev\\lead_generation_media_h5p\\camtasia\\slide3.cmproj\\media\\1610256917.687595\\sussana4.png",
+      "rect" : [0, 0, 415, 1059],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 415, 1059],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana4.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.586494"
+      }
+    },
+    {
+      "id" : 6,
+      "src" : "C:\\Users\\Sloan\\OneDrive\\Desktop\\MIST Program\\Github\\mist-nicholas-sloan.github.io\\IST526\\Lab 1\\dev\\lead_generation_media_h5p\\camtasia\\slide3.cmproj\\media\\1610256917.687759\\sussana5.png",
+      "rect" : [0, 0, 357, 1113],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 357, 1113],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana5.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.602631"
+      }
+    },
+    {
+      "id" : 7,
+      "src" : "C:\\Users\\Sloan\\OneDrive\\Desktop\\MIST Program\\Github\\mist-nicholas-sloan.github.io\\IST526\\Lab 1\\dev\\lead_generation_media_h5p\\camtasia\\slide3.cmproj\\media\\1610256917.687923\\sussana6.png",
+      "rect" : [0, 0, 241, 690],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 241, 690],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana6.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.618298"
+      }
+    },
+    {
+      "id" : 8,
+      "src" : "C:\\Users\\Sloan\\OneDrive\\Desktop\\MIST Program\\Github\\mist-nicholas-sloan.github.io\\IST526\\Lab 1\\dev\\lead_generation_media_h5p\\camtasia\\slide3.cmproj\\media\\1610256917.688109\\slide3_background.png",
+      "rect" : [0, 0, 1024, 627],
+      "lastMod" : "20250209T211806",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1024, 627],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "slide3_background.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.649540"
+      }
+    },
+    {
+      "id" : 9,
+      "src" : "C:\\Users\\Sloan\\OneDrive\\Desktop\\MIST Program\\Github\\mist-nicholas-sloan.github.io\\IST526\\Lab 1\\dev\\lead_generation_media_h5p\\camtasia\\slide3.cmproj\\media\\1610257404.807313\\virtualVacations_logo.png",
+      "rect" : [0, 0, 174, 180],
+      "lastMod" : "20250209T211806",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 174, 180],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "virtualVacations_logo.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.665161"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 10,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                ]
+              }            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "Audio",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "48"
+        }
+      },
+      {
+        "ident" : "Track 1",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "48"
+        }
+      },
+      {
+        "ident" : "Track 2",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "48"
+        }
+      },
+      {
+        "ident" : "Track 3",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "48"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 32,
+      "backgroundColor" : [ 0, 0, 0, 204],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "gain" : 1.0,
+    "legacyAttenuateAudioMix" : false,
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\Sloan\\AppData\\Local\\TechSmith\\Camtasia Studio\\23.0\\Auto-Saves\\project3d61a9a1.autosave.tscproj",
+    "Date" : "2025-02-10 10:02:35 PM",
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "activeThemeId" : "e59eeb42-ccf0-4a36-bdf9-e630fdab686d",
+    "firstMedia" : true,
+    "hasNotifiedAboutHFRMedia" : false
+  }
+}

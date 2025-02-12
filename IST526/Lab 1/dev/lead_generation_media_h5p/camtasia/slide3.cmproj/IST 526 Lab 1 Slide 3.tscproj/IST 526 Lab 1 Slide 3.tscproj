@@ -1,0 +1,1043 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : false,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "allowSubFrameEditing" : false,
+  "width" : 1024.0,
+  "height" : 628.0,
+  "version" : "7.0",
+  "editRate" : 705600000,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "2023.4.8"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "slide3_audio.wav",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1611540],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 1,
+          "integratedLUFS" : -19.970661113083,
+          "peakLevel" : 0.878143310546875,
+          "metaData" : "slide3_audio.wav;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.508337"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "sussana1.png",
+      "rect" : [0, 0, 265, 689],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 265, 689],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana1.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.523991"
+      }
+    },
+    {
+      "id" : 3,
+      "src" : "sussana2.png",
+      "rect" : [0, 0, 348, 991],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 348, 991],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana2.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.539615"
+      }
+    },
+    {
+      "id" : 4,
+      "src" : "sussana3.png",
+      "rect" : [0, 0, 364, 890],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 364, 890],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana3.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.555232"
+      }
+    },
+    {
+      "id" : 5,
+      "src" : "sussana4.png",
+      "rect" : [0, 0, 415, 1059],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 415, 1059],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana4.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.586494"
+      }
+    },
+    {
+      "id" : 6,
+      "src" : "sussana5.png",
+      "rect" : [0, 0, 357, 1113],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 357, 1113],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana5.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.602631"
+      }
+    },
+    {
+      "id" : 7,
+      "src" : "sussana6.png",
+      "rect" : [0, 0, 241, 690],
+      "lastMod" : "20250209T211805",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 241, 690],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana6.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.618298"
+      }
+    },
+    {
+      "id" : 8,
+      "src" : "slide3_background.png",
+      "rect" : [0, 0, 1024, 627],
+      "lastMod" : "20250209T211806",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1024, 627],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "slide3_background.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.649540"
+      }
+    },
+    {
+      "id" : 9,
+      "src" : "virtualVacations_logo.png",
+      "rect" : [0, 0, 174, 180],
+      "lastMod" : "20250209T211806",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 174, 180],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "virtualVacations_logo.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250211T060304.665161"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 10,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 11,
+                    "_type" : "AMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "slide3_audio",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0",
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 25777920000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 25777920000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 12,
+                    "_type" : "IMFile",
+                    "src" : 8,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "slide3_background"
+                    },
+                    "parameters" : {
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -0.5,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 25777920000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 627.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5,
+                      "default-translation2" : 0.0,
+                      "default-width" : 1024.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                  {
+                    "id" : 13,
+                    "_type" : "IMFile",
+                    "src" : 9,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "virtualVacations_logo"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -216.489898989899,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 61.469696969697,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.19360269360269,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.19360269360269,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 25777920000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-anchor0" : 0.0,
+                      "default-anchor1" : 0.0,
+                      "default-anchor2" : 0.0,
+                      "default-height" : 180.0,
+                      "default-rotation0" : 0.0,
+                      "default-rotation1" : 0.0,
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-scale2" : 1.0,
+                      "default-shear0" : 0.0,
+                      "default-shear1" : 0.0,
+                      "default-shear2" : 0.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-translation2" : 0.0,
+                      "default-width" : 174.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                  {
+                    "id" : 14,
+                    "_type" : "IMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "sussana1"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 632.769230769231,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 1575840000,
+                            "time" : 0,
+                            "value" : 341.86013986014,
+                            "duration" : 1575840000
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 1575840000,
+                            "time" : 0,
+                            "value" : -1.0,
+                            "duration" : 1575840000
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.911465892597968,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.911465892597968,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 3528000000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 628.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-translation2" : 0.0,
+                      "default-width" : 241.538461538462
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 1575840000,
+                          "duration" : 1575840000,
+                          "range" : [ 0, 1575840000]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 15,
+                    "_type" : "IMFile",
+                    "src" : 7,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "sussana6"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 352.956906861255,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.910144927536232,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.910144927536232,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 10019520000,
+                    "duration" : 7338240000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 628.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-translation2" : 0.0,
+                      "default-width" : 219.344927536232
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 16,
+                    "_type" : "IMFile",
+                    "src" : 6,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "sussana5"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 304.545454545454,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -1.0,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.564240790655885,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.564240790655885,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 23614080000,
+                    "duration" : 2163840000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 628.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-translation2" : 0.0,
+                      "default-width" : 201.433962264151
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "ActionWipe",
+                    "duration" : 705600000,
+                    "rightMedia" : 14,
+                    "attributes" : {
+                      "FlipX" : false,
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Glitch",
+                    "duration" : 705600000,
+                    "leftMedia" : 14,
+                    "attributes" : {
+                      "Random" : 0.0,
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Glitch",
+                    "duration" : 705600000,
+                    "rightMedia" : 15,
+                    "attributes" : {
+                      "Random" : 0.0,
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Glitch",
+                    "duration" : 705600000,
+                    "leftMedia" : 15,
+                    "attributes" : {
+                      "Random" : 0.0,
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Glitch",
+                    "duration" : 705600000,
+                    "rightMedia" : 16,
+                    "attributes" : {
+                      "Random" : 0.0,
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 4,
+                "medias" : [
+                  {
+                    "id" : 17,
+                    "_type" : "IMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 987840000,
+                    "attributes" : {
+                      "ident" : "sussana3"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 334.206898719258,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.70561797752809,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.70561797752809,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2822400000,
+                    "duration" : 7902720000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 628.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-translation2" : 0.0,
+                      "default-width" : 256.844943820225
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 18,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "sussana2"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 352.364991214638,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.633703329969728,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.633703329969728,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 16652160000,
+                    "duration" : 7667520000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 628.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-translation2" : 0.0,
+                      "default-width" : 220.528758829465
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Glitch",
+                    "duration" : 705600000,
+                    "rightMedia" : 17,
+                    "attributes" : {
+                      "Random" : 0.0,
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Glitch",
+                    "duration" : 705600000,
+                    "leftMedia" : 17,
+                    "attributes" : {
+                      "Random" : 0.0,
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Glitch",
+                    "duration" : 705600000,
+                    "rightMedia" : 18,
+                    "attributes" : {
+                      "Random" : 0.0,
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Glitch",
+                    "duration" : 705600000,
+                    "leftMedia" : 18,
+                    "attributes" : {
+                      "Random" : 0.0,
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  }
+                ]
+              }            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "Audio",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56",
+          "trackHeight" : "48"
+        }
+      },
+      {
+        "ident" : "Track 1",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56",
+          "trackHeight" : "48"
+        }
+      },
+      {
+        "ident" : "Track 4",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "Track 2",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56",
+          "trackHeight" : "48"
+        }
+      },
+      {
+        "ident" : "Track 3",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56",
+          "trackHeight" : "48"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 37,
+      "backgroundColor" : [ 0, 0, 0, 204],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "gain" : 1.0,
+    "legacyAttenuateAudioMix" : false,
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\Sloan\\AppData\\Local\\TechSmith\\Camtasia Studio\\23.0\\Auto-Saves\\project3d61a9a1.autosave.tscproj",
+    "CanvasZoom" : 66,
+    "Date" : "2025-02-10 10:02:35 PM",
+    "IsAutoSave" : false,
+    "IsStandalone" : true,
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "ProjectDimensionsChanged" : "1",
+    "ProjectThumbnail" : "iVBORw0KGgoAAAANSUhEUgAAAksAAAFoCAYAAABHbb8HAAAAAXNSR0IArs4c6QAAAARnQU1BAACx\r\njwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAWRSURBVHhe7cjBCcAwAMSw7L90Grivu4EM+vi8\r\nLgAAv3ICADA5AQCYnAAATE4AACYnAACTEwCAyQkAwOQEAGByAgAwOQEAmJwAAExOAAAmJwAAkxMA\r\ngMkJAMDkBABgcgIAMDkBAJicAABMTgAAJicAAJMTAIDJCQDA5AQAYHICADA5AQCYnAAATE4AACYn\r\nAACTEwCAyQkAwOQEAGByAgAwOQEAmJwAAExOAAAmJwAAkxMAgMkJAMDkBABgcgIAMDkBAJicAABM\r\nTgAAJicAAJMTAIDJCQDA5AQAYHICADA5AQCYnAAATE4AACYnAACTEwCAyQkAwOQEAGByAgAwOQEA\r\nmJwAAExOAAAmJwAAkxMAgMkJAMDkBABgcgIAMDkBAJicAABMTgAAJicAAJMTAIDJCQDA5AQAYHIC\r\nADA5AQCYnAAATE4AACYnAACTEwCAyQkAwOQEAGByAgAwOQEAmJwAAExOAAAmJwAAkxMAgMkJAMDk\r\nBABgcgIAMDkBAJicAABMTgAAJicAAJMTAIDJCQDA5AQAYHICADA5AQCYnAAATE4AACYnAACTEwCA\r\nyQkAwOQEAGByAgAwOQEAmJwAAExOAAAmJwAAkxMAgMkJAMDkBABgcgIAMDkBAJicAABMTgAAJicA\r\nAJMTAIDJCQDA5AQAYHICADA5AQCYnAAATE4AACYnAACTEwCAyQkAwOQEAGByAgAwOQEAmJwAAExO\r\nAAAmJwAAkxMAgMkJAMDkBABgcgIAMDkBAJicAABMTgAAJicAAJMTAIDJCQDA5AQAYHICADA5AQCY\r\nnAAATE4AACYnAACTEwCAyQkAwOQEAGByAgAwOQEAmJwAAExOAAAmJwAAkxMAgMkJAMDkBABgcgIA\r\nMDkBAJicAABMTgAAJicAAJMTAIDJCQDA5AQAYHICADA5AQCYnAAATE4AACYnAACTEwCAyQkAwOQE\r\nAGByAgAwOQEAmJwAAExOAAAmJwAAkxMAgMkJAMDkBABgcgIAMDkBAJicAABMTgAAJicAAJMTAIDJ\r\nCQDA5AQAYHICADA5AQCYnAAATE4AACYnAACTEwCAyQkAwOQEAGByAgAwOQEAmJwAAExOAAAmJwAA\r\nkxMAgMkJAMDkBABgcgIAMDkBAJicAABMTgAAJicAAJMTAIDJCQDA5AQAYHICADA5AQCYnAAATE4A\r\nACYnAACTEwCAyQkAwOQEAGByAgAwOQEAmJwAAExOAAAmJwAAkxMAgMkJAMDkBABgcgIAMDkBAJic\r\nAABMTgAAJicAAJMTAIDJCQDA5AQAYHICADA5AQCYnAAATE4AACYnAACTEwCAyQkAwOQEAGByAgAw\r\nOQEAmJwAAExOAAAmJwAAkxMAgMkJAMDkBABgcgIAMDkBAJicAABMTgAAJicAAJMTAIDJCQDA5AQA\r\nYHICADA5AQCYnAAATE4AACYnAACTEwCAyQkAwOQEAGByAgAwOQEAmJwAAExOAAAmJwAAkxMAgMkJ\r\nAMDkBABgcgIAMDkBAJicAABMTgAAJicAAJMTAIDJCQDA5AQAYHICADA5AQCYnAAATE4AACYnAACT\r\nEwCAyQkAwOQEAGByAgAwOQEAmJwAAExOAAAmJwAAkxMAgMkJAMDkBABgcgIAMDkBAJicAABMTgAA\r\nJicAAJMTAIDJCQDA5AQAYHICADA5AQCYnAAATE4AACYnAACTEwCAyQkAwOQEAGByAgAwOQEAmJwA\r\nAExOAAAmJwAAkxMAgMkJAMDkBABgcgIAMDkBAJicAABMTgAAJicAAJMTAIDJCQDA5AQAYHICADA5\r\nAQCYnAAATE4AACYnAACTEwCAyQkAwOQEAGByAgAwOQEAmJwAAExOAAAmJwAAkxMAgMkJAMDkBABg\r\ncgIAMDkBAJicAABMTgAAJicAAJMTAIDJCQDAOfcD/QNus4D7FRsAAAAASUVORK5CYII=",
+    "RulerGuidesX" : [],
+    "RulerGuidesY" : [],
+    "RulerShowing" : false,
+    "Title" : "IST 526 Lab 1 Slide 3",
+    "activeThemeId" : "e59eeb42-ccf0-4a36-bdf9-e630fdab686d",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "firstMedia" : true,
+    "hasNotifiedAboutHFRMedia" : false
+  }
+}
